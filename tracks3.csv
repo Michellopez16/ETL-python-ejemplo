@@ -1,0 +1,301 @@
+Posicion,Nombre de la cancion,Artista,Popularidad,Duration_ms,ReleaseDate,Pais
+1,La Diabla,Xavi,98,172264,2023-11-30,Mexico
+2,La Víctima,Xavi,95,156345,2023-08-17,Mexico
+3,FIRST LOVE,"Oscar Ortiz, Edgardo Nuñez",92,169440,2023-12-07,Mexico
+4,Regalo De Dios,Julión Álvarez y su Norteño Banda,88,185933,2023-11-17,Mexico
+5,HARLEY QUINN,"Fuerza Regida, Marshmello",93,143327,2023-10-20,Mexico
+6,Igual Que Un Ángel (with Peso Pluma),"Kali Uchis, Peso Pluma",95,260370,2024-01-12,Mexico
+7,Que Onda,"Calle 24, Chino Pacas, Fuerza Regida",93,191466,2023-08-30,Mexico
+8,Apaga El Cel,"Calle 24, Chino Pacas",88,170832,2023-12-22,Mexico
+9,ROCKSTAR,Junior H,88,168677,2023-10-05,Mexico
+10,Gata Only,"FloyyMenor, Cris Mj",91,222000,2024-02-02,Mexico
+11,Y LLORO,Junior H,90,179013,2023-10-05,Mexico
+12,Poco A Poco,"Xavi, Los Dareyes De La Sierra",91,156040,2023-09-21,Mexico
+13,O Me Voy O Te Vas,Natanael Cano,88,242133,2023-10-11,Mexico
+14,Alucin,"Eugenio Esquivel, Grupo Marca Registrada, Sebastian Esquivel",91,197114,2023-11-17,Mexico
+15,Elvira,"Oscar Maydon, Gabito Ballesteros, Chino Pacas",86,196832,2023-12-22,Mexico
+16,Según Quién,"Maluma, Carin Leon",89,142334,2023-08-25,Mexico
+17,QLONA,"KAROL G, Peso Pluma",93,172797,2023-08-10,Mexico
+18,LUNA,"Feid, ATL Jacob",97,196800,2023-12-01,Mexico
+19,Lo Tienes Todo,Julión Álvarez y su Norteño Banda,86,164386,2023-11-17,Mexico
+20,BELLAKEO,"Peso Pluma, Anitta",94,197333,2023-12-07,Mexico
+21,EL AMOR DE SU VIDA,"Grupo Frontera, Grupo Firme",89,165848,2023-08-25,Mexico
+22,Mi Bello Angel,Natanael Cano,88,188666,2023-06-30,Mexico
+23,La Intención,"Christian Nodal, Peso Pluma",89,249464,2024-01-27,Mexico
+24,LADY GAGA,"Peso Pluma, Gabito Ballesteros, Junior H",90,212878,2023-06-29,Mexico
+25,Rompe La Dompe,"Peso Pluma, Junior H, Oscar Maydon",89,165634,2023-12-28,Mexico
+26,A Tu Manera,"Junior H, Peso Pluma",85,261068,2024-02-16,Mexico
+27,Ya No Estoy Dolido,"Adrian L Santos, Joaquin Medina",84,179600,2024-01-08,Mexico
+28,Primera Cita,Carin Leon,86,186455,2023-05-19,Mexico
+29,CRAZYZ,Fuerza Regida,88,204815,2023-10-20,Mexico
+30,Vete,Alfredo Olivas,84,185240,2022-09-30,Mexico
+31,Modo DND,"Xavi, Tony Aguirre",89,220298,2023-10-26,Mexico
+32,PERRO NEGRO,"Bad Bunny, Feid",95,162767,2023-10-13,Mexico
+33,TÚ NAME,Fuerza Regida,82,152078,2024-02-09,Mexico
+34,CONTIGO (with Tiësto),"KAROL G, Tiësto",90,192786,2024-02-15,Mexico
+35,UNA CERVEZA,"Fuerza Regida, Manuel Turizo",87,279275,2023-10-20,Mexico
+36,LOU LOU,"Gabito Ballesteros, Natanael Cano",87,188000,2023-10-19,Mexico
+37,A Puro Dolor,Gabito Ballesteros,86,168086,2023-11-30,Mexico
+38,ELOVRGA,"Alex Favela, Grupo Marca Registrada, Joaquin Medina",88,194769,2023-08-18,Mexico
+39,ANDO,"Jere Klein, Gittobeatz",84,172774,2023-12-01,Mexico
+40,Alch Si,"Carin Leon, Grupo Frontera",86,153953,2023-11-30,Mexico
+41,SABOR FRESA,Fuerza Regida,82,156500,2023-10-20,Mexico
+42,Proyecto X,"Gabito Ballesteros, Natanael Cano",84,158036,2024-02-02,Mexico
+43,LA PEOPLE,"Peso Pluma, Tito Double P",87,153031,2023-06-29,Mexico
+44,Enculado,Fuerza Regida,82,147877,2024-02-09,Mexico
+45,LA FALDA,Myke Towers,94,174229,2023-09-18,Mexico
+46,Pongámonos De Acuerdo,Julión Álvarez y su Norteño Banda,82,161906,2015-03-23,Mexico
+47,La Suma,"Javier Rosas Y Su Artillería Pesada, Lupe Borbon y su Blindaje 7",84,198976,2023-11-15,Mexico
+48,El Azul,"Junior H, Peso Pluma",86,187225,2023-02-10,Mexico
+49,AMARGURA,KAROL G,90,170480,2023-02-24,Mexico
+50,NO SON KLLE,"Santa Fe Klan, Duki, Peso Pluma",80,223586,2024-02-22,Mexico
+1,Beautiful Things,Benson Boone,100,180304,2024-01-18,Global
+2,CARNIVAL,"¥$, Kanye West, Ty Dolla $ign, Rich The Kid, Playboi Carti",95,264324,2024-02-09,Global
+3,TEXAS HOLD 'EM,Beyoncé,87,235636,2024-02-10,Global
+4,greedy,Tate McRae,99,131872,2023-09-15,Global
+5,End of Beginning,Djo,92,159245,2022-09-16,Global
+6,Cruel Summer,Taylor Swift,99,178426,2019-08-23,Global
+7,Lose Control,Teddy Swims,94,210688,2023-09-15,Global
+8,La Diabla,Xavi,98,172264,2023-11-30,Global
+9,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",85,244684,2024-02-09,Global
+10,My Love Mine All Mine,Mitski,98,137773,2023-09-15,Global
+11,Stick Season,Noah Kahan,97,182346,2022-10-14,Global
+12,redrum,21 Savage,97,270697,2024-01-12,Global
+13,LUNA,"Feid, ATL Jacob",97,196800,2023-12-01,Global
+14,Praise Jah In The Moonlight,YG Marley,95,263040,2023-12-27,Global
+15,Gata Only,"FloyyMenor, Cris Mj",91,222000,2024-02-02,Global
+16,Lovin On Me,Jack Harlow,97,138411,2023-11-10,Global
+17,Unwritten,Natasha Bedingfield,94,259333,2004-08-30,Global
+18,La Víctima,Xavi,95,156345,2023-08-17,Global
+19,I Wanna Be Yours,Arctic Monkeys,96,183956,2013-09-09,Global
+20,LA FALDA,Myke Towers,94,174229,2023-09-18,Global
+21,Saturn,SZA,88,186191,2024-02-22,Global
+22,Water,Tyla,94,200255,2023-07-28,Global
+23,FE!N (feat. Playboi Carti),"Travis Scott, Playboi Carti",93,191700,2023-07-28,Global
+24,Houdini,Dua Lipa,95,185917,2023-11-09,Global
+25,Popular (with Playboi Carti & Madonna),"The Weeknd, Playboi Carti, Madonna",85,215466,2024-02-09,Global
+26,PERRO NEGRO,"Bad Bunny, Feid",95,162767,2023-10-13,Global
+27,"yes, and?",Ariana Grande,96,214994,2024-01-12,Global
+28,QLONA,"KAROL G, Peso Pluma",93,172797,2023-08-10,Global
+29,Flowers,Miley Cyrus,95,200600,2023-08-18,Global
+30,Training Season,Dua Lipa,91,209487,2024-02-15,Global
+31,Seven (feat. Latto) (Explicit Ver.),"Jung Kook, Latto",89,183550,2023-11-03,Global
+32,Strangers,Kenya Grace,95,172964,2023-09-01,Global
+33,Starboy,"The Weeknd, Daft Punk",94,230453,2016-11-25,Global
+34,The Night We Met,Lord Huron,83,208211,2015-04-07,Global
+35,vampire,Olivia Rodrigo,94,219724,2023-09-08,Global
+36,I Remember Everything (feat. Kacey Musgraves),"Zach Bryan, Kacey Musgraves",94,227195,2023-08-25,Global
+37,Paint The Town Red,Doja Cat,86,230480,2023-09-20,Global
+38,BELLAKEO,"Peso Pluma, Anitta",94,197333,2023-12-07,Global
+39,Según Quién,"Maluma, Carin Leon",89,142334,2023-08-25,Global
+40,CONTIGO (with Tiësto),"KAROL G, Tiësto",90,192786,2024-02-15,Global
+41,Igual Que Un Ángel (with Peso Pluma),"Kali Uchis, Peso Pluma",95,260370,2024-01-12,Global
+42,Never Lose Me,Flo Milli,93,125901,2023-11-30,Global
+43,Snooze,SZA,94,201800,2022-12-09,Global
+44,As It Was,Harry Styles,94,167303,2022-05-20,Global
+45,Locked out of Heaven,Bruno Mars,91,233478,2012-12-07,Global
+46,Daylight,David Kushner,94,212953,2023-04-14,Global
+47,ONE CALL,Rich Amiri,87,121399,2023-11-17,Global
+48,Viva La Vida,Coldplay,89,242373,2008-05-26,Global
+49,Murder On The Dancefloor,Sophie Ellis-Bextor,94,230013,2002-06-06,Global
+50,FIRST LOVE,"Oscar Ortiz, Edgardo Nuñez",92,169440,2023-12-07,Global
+1,CARNIVAL,"¥$, Kanye West, Ty Dolla $ign, Rich The Kid, Playboi Carti",95,264324,2024-02-09,USA
+2,Beautiful Things,Benson Boone,100,180304,2024-01-18,USA
+3,TEXAS HOLD 'EM,Beyoncé,87,235636,2024-02-10,USA
+4,redrum,21 Savage,97,270697,2024-01-12,USA
+5,Stick Season,Noah Kahan,97,182346,2022-10-14,USA
+6,I Remember Everything (feat. Kacey Musgraves),"Zach Bryan, Kacey Musgraves",94,227195,2023-08-25,USA
+7,End of Beginning,Djo,92,159245,2022-09-16,USA
+8,Whatever She Wants,Bryson Tiller,86,161342,2024-02-13,USA
+9,Lovin On Me,Jack Harlow,97,138411,2023-11-10,USA
+10,Lose Control,Teddy Swims,94,210688,2023-09-15,USA
+11,Saturn,SZA,88,186191,2024-02-22,USA
+12,greedy,Tate McRae,99,131872,2023-09-15,USA
+13,FE!N (feat. Playboi Carti),"Travis Scott, Playboi Carti",93,191700,2023-07-28,USA
+14,Cruel Summer,Taylor Swift,99,178426,2019-08-23,USA
+15,Never Lose Me,Flo Milli,93,125901,2023-11-30,USA
+16,ONE CALL,Rich Amiri,87,121399,2023-11-17,USA
+17,La Diabla,Xavi,98,172264,2023-11-30,USA
+18,My Love Mine All Mine,Mitski,98,137773,2023-09-15,USA
+19,Last Night,Morgan Wallen,86,163854,2023-03-03,USA
+20,Breathe,Yeat,85,170847,2024-02-16,USA
+21,Something in the Orange,Zach Bryan,91,228013,2022-04-22,USA
+22,500lbs,Lil Tecca,88,144390,2023-09-22,USA
+23,Praise Jah In The Moonlight,YG Marley,95,263040,2023-12-27,USA
+24,Snooze,SZA,94,201800,2022-12-09,USA
+25,Rich Baby Daddy (feat. Sexyy Red & SZA),"Drake, Sexyy Red, SZA",93,319191,2023-10-06,USA
+26,vampire,Olivia Rodrigo,94,219724,2023-09-08,USA
+27,I KNOW ?,Travis Scott,92,211582,2023-07-28,USA
+28,Surround Sound (feat. 21 Savage & Baby Tate),"JID, 21 Savage, Baby Tate",93,229938,2022-10-31,USA
+29,Agora Hills,Doja Cat,84,265360,2023-09-20,USA
+30,Thinkin’ Bout Me,Morgan Wallen,88,177387,2023-03-03,USA
+31,La Víctima,Xavi,95,156345,2023-08-17,USA
+32,Feather,Sabrina Carpenter,93,185552,2023-03-17,USA
+33,BURN,"¥$, Kanye West, Ty Dolla $ign",89,111458,2024-02-09,USA
+34,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd, JENNIE, Lily-Rose Depp",85,244684,2024-02-09,USA
+35,You Proof,Morgan Wallen,85,157477,2023-03-03,USA
+36,Heading South,Zach Bryan,87,171692,2019-09-30,USA
+37,MY EYES,Travis Scott,91,251249,2023-07-28,USA
+38,No Role Modelz,J. Cole,91,292799,2014-12-09,USA
+39,Heartless,Kanye West,91,211000,2008-11-24,USA
+40,Scared To Start,Michael Marcagi,90,159636,2024-01-12,USA
+41,IDGAF (feat. Yeat),"Drake, Yeat",91,260111,2023-10-06,USA
+42,First Person Shooter (feat. J. Cole),"Drake, J. Cole",89,247444,2023-10-06,USA
+43,Home,Good Neighbours,89,157485,2024-01-17,USA
+44,Paint The Town Red,Doja Cat,86,230480,2023-09-20,USA
+45,Water,Tyla,94,200255,2023-07-28,USA
+46,Father Stretch My Hands Pt. 1,Kanye West,91,135920,2016-06-10,USA
+47,Popular (with Playboi Carti & Madonna),"The Weeknd, Playboi Carti, Madonna",85,215466,2024-02-09,USA
+48,Fast Car,Luke Combs,89,265493,2023-03-24,USA
+49,Wild Ones (feat. Jelly Roll),"Jessie Murph, Jelly Roll",85,141367,2023-10-06,USA
+50,act ii: date @ 8,4batz,89,113684,2023-12-15,USA
+1,FARDOS,"JC Reyes, De La Ghetto",79,183335,2024-02-16,España
+2,X'CLUSIVO - REMIX,"Gonzy, SAIKO, Arcángel",66,208133,2024-02-29,España
+3,LA FALDA,Myke Towers,94,174229,2023-09-18,España
+4,Manos Rotas,"DELLAFUENTE, Morad",84,168594,2023-11-16,España
+5,LUNA,"Feid, ATL Jacob",97,196800,2023-12-01,España
+6,Gata Only,"FloyyMenor, Cris Mj",91,222000,2024-02-02,España
+7,Una Foto Remix (feat. Emilia),"Mesita, Nicki Nicole, Tiago PZK, Emilia",91,243898,2024-01-05,España
+8,Mamichula - con Nicki Nicole,"Trueno, Nicki Nicole, Bizarrap, Taiu, TATOOL",88,219201,2020-07-23,España
+9,M.A.I,Milo j,88,184027,2023-11-30,España
+10,Casanova,"Soolking, Lola Indigo, Rvfv",82,243806,2023-12-07,España
+11,No Te Quieren Conmigo,"Gaby Music, Lunay, Luar La L",88,252040,2023-12-15,España
+12,"Young Miko: Bzrp Music Sessions, Vol. 58","Bizarrap, Young Miko",93,187172,2024-01-10,España
+13,El Patio,"Pepe y Vizio, Delaossa, KIDDO",74,232645,2022-07-15,España
+14,La_Original.mp3,"Emilia, TINI",84,140625,2023-11-03,España
+15,A 300,"JC Reyes, Pedro Calderon, Blacknife",78,169208,2023-02-17,España
+16,PERRO NEGRO,"Bad Bunny, Feid",95,162767,2023-10-13,España
+17,Buscando Money,"TWENTY SIX, Tayson Kryss",68,150000,2024-02-23,España
+18,Columbia,Quevedo,91,186000,2023-07-07,España
+19,LA CAPI,Myke Towers,80,202360,2023-09-18,España
+20,EMPELOTICA,"Lenny Tavárez, Feid",79,190322,2024-02-22,España
+21,MODELITO,"Mora, YOVNGCHIMI",83,190496,2022-11-03,España
+22,Narcotics (with Bryant Myers),"Dei V, Bryant Myers",84,173991,2023-09-14,España
+23,La Bachata,Manuel Turizo,86,162637,2023-03-17,España
+24,LA ÚLTIMA,Quevedo,83,170322,2024-02-01,España
+25,UNA BACHATA,"Lola Indigo, SAIKO",77,157846,2024-02-01,España
+26,CONTIGO (with Tiësto),"KAROL G, Tiësto",90,192786,2024-02-15,España
+27,BAD BOY,"Chris Jedi, Gaby Music, Dei V, Anuel AA, Ozuna",78,235146,2024-02-07,España
+28,X'CLUSIVO,Gonzy,81,175586,2023-12-01,España
+29,REINA,"Mora, SAIKO",83,211879,2023-08-28,España
+30,Hey Lil Mama,"Eladio Carrion, Rauw Alejandro",85,216338,2024-01-19,España
+31,DILUVIO,Rauw Alejandro,90,197052,2023-07-07,España
+32,COSAS QUE NO TE DIJE,SAIKO,84,224725,2021-09-17,España
+33,Madrid City,Ana Mena,79,172727,2023-09-29,España
+34,POLARIS - Remix,"SAIKO, Quevedo, Feid, Mora",82,288000,2023-06-08,España
+35,QLONA,"KAROL G, Peso Pluma",93,172797,2023-08-10,España
+36,OA,"Anuel AA, Quevedo, Maluma, Mambo Kingz, DJ Luian",85,235200,2023-10-13,España
+37,BABY HELLO,"Rauw Alejandro, Bizarrap",77,222461,2023-07-07,España
+38,"Japoni (feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)","Oscar el Ruso, Samuel G, Omar Montes, Camin, Moncho Chavea, Jthyago, Samueliyo Baby",76,248004,2024-01-02,España
+39,Alucin,"Eugenio Esquivel, Grupo Marca Registrada, Sebastian Esquivel",91,197114,2023-11-17,España
+40,Si No Estás,iñigo quintero,93,184061,2022-09-23,España
+41,Quien Es Dei V?,Dei V,81,162244,2023-03-17,España
+42,PERREO LENTO,"Chris Jedi, Gaby Music, Dei V",74,156640,2024-02-09,España
+43,Trending Remix (with Myke Towers),"Dei V, Myke Towers",76,225154,2023-05-04,España
+44,VAGABUNDO,"Sebastian Yatra, Manuel Turizo, Beéle",85,215600,2023-05-12,España
+45,LALA,Myke Towers,91,197920,2023-03-23,España
+46,Buenas,"Quevedo, SAIKO",80,192954,2023-09-22,España
+47,ASI ES LA VIDA,"Enrique Iglesias, Maria Becerra",83,172095,2023-09-28,España
+48,TU$$I (with Dei V),"YOVNGCHIMI, Dei V",76,163200,2023-12-08,España
+49,Holanda,Jhayco,85,231693,2023-07-28,España
+50,El Merengue,"Marshmello, Manuel Turizo",78,189668,2023-11-03,España
+1,LUNA,"Feid, ATL Jacob",97,196800,2023-12-01,Colombia
+2,PERRO NEGRO,"Bad Bunny, Feid",95,162767,2023-10-13,Colombia
+3,La Diabla,Xavi,98,172264,2023-11-30,Colombia
+4,SI SABE FERXXO,"Blessd, Feid",86,152500,2024-01-25,Colombia
+5,Según Quién,"Maluma, Carin Leon",89,142334,2023-08-25,Colombia
+6,CUAL ES ESA,"Feid, Pirlo",82,172506,2023-12-01,Colombia
+7,QLONA,"KAROL G, Peso Pluma",93,172797,2023-08-10,Colombia
+8,LA FALDA,Myke Towers,94,174229,2023-09-18,Colombia
+9,AMARGURA,KAROL G,90,170480,2023-02-24,Colombia
+10,La Víctima,Xavi,95,156345,2023-08-17,Colombia
+11,La Bachata,Manuel Turizo,86,162637,2023-03-17,Colombia
+12,CLASSY 101,"Feid, Young Miko",86,195586,2023-12-01,Colombia
+13,Feliz Cumpleaños Ferxxo,Feid,87,155960,2022-09-14,Colombia
+14,CONTIGO (with Tiësto),"KAROL G, Tiësto",90,192786,2024-02-15,Colombia
+15,Primera Cita,Carin Leon,86,186455,2023-05-19,Colombia
+16,ALAKRAN,Feid,83,90613,2023-12-01,Colombia
+17,EMPELOTICA,"Lenny Tavárez, Feid",79,190322,2024-02-22,Colombia
+18,MI EX TENÍA RAZÓN,KAROL G,88,154374,2023-08-10,Colombia
+19,Hey Mor,"Ozuna, Feid",86,196600,2022-10-07,Colombia
+20,Es un Secreto,Plan B,71,190560,2010-07-20,Colombia
+21,LA INOCENTE,"Mora, Feid",86,202173,2022-04-01,Colombia
+22,LALA,Myke Towers,91,197920,2023-03-23,Colombia
+23,Pa' Que Retozen,Tego Calderón,84,151666,2003-07-01,Colombia
+24,Normal,Feid,84,171880,2022-09-14,Colombia
+25,CHORRITO PA LAS ANIMAS,Feid,85,168133,2022-12-02,Colombia
+26,QUEMA,"Ryan Castro, Peso Pluma, SOG",85,150618,2023-07-13,Colombia
+27,Mamichula - con Nicki Nicole,"Trueno, Nicki Nicole, Bizarrap, Taiu, TATOOL",88,219201,2020-07-23,Colombia
+28,Que Onda,"Calle 24, Chino Pacas, Fuerza Regida",93,191466,2023-08-30,Colombia
+29,Jordan,Ryan Castro,83,176142,2022-05-24,Colombia
+30,Ferxxo 100,Feid,81,167760,2022-09-14,Colombia
+31,Columbia,Quevedo,91,186000,2023-07-07,Colombia
+32,LA VUELTA,"Feid, Mañas Ru-Fino",78,121920,2023-12-01,Colombia
+33,Monastery,"Ryan Castro, Feid",78,189333,2021-11-12,Colombia
+34,Solos,"Tony Dize, Plan B",61,188826,2009-11-17,Colombia
+35,PALABRAS SOBRAN - REMIX,"Blessd, Ryan Castro, Bryant Myers, Hades66",68,288053,2024-01-25,Colombia
+36,CONDENADO AL EXITO II,Blessd,72,257683,2024-01-25,Colombia
+37,Narcotics (with Bryant Myers),"Dei V, Bryant Myers",84,173991,2023-09-14,Colombia
+38,Mi Palabra Contra la de Ellos - En Vivo,Luis Alfonso,71,181685,2023-03-23,Colombia
+39,"Young Miko: Bzrp Music Sessions, Vol. 58","Bizarrap, Young Miko",93,187172,2024-01-10,Colombia
+40,Yandel 150,"Yandel, Feid",81,216148,2023-01-13,Colombia
+41,BUBALU,"Feid, Rema",79,228186,2023-09-29,Colombia
+42,Dile,Don Omar,86,204600,2003-01-01,Colombia
+43,PROVENZA,KAROL G,85,207626,2023-02-24,Colombia
+44,Te Pintaron Pajaritos,"Yandar & Yostin, Andy Rivera",82,172558,2016-12-30,Colombia
+45,Prohibidox,Feid,80,166253,2022-09-14,Colombia
+46,TU$$I (with Dei V),"YOVNGCHIMI, Dei V",76,163200,2023-12-08,Colombia
+47,M.A.I,Milo j,88,184027,2023-11-30,Colombia
+48,un x100to,"Grupo Frontera, Bad Bunny",86,194563,2023-08-25,Colombia
+49,El Perdedor,Aventura,80,215213,2006-12-19,Colombia
+50,Ojitos Chiquitos,Don Omar,80,229026,2006-01-01,Colombia
+1,HOLA PERDIDA,"Luck Ra, KHEA",78,166536,2024-02-02,Argentina
+2,Gata Only,"FloyyMenor, Cris Mj",91,222000,2024-02-02,Argentina
+3,Una Foto Remix (feat. Emilia),"Mesita, Nicki Nicole, Tiago PZK, Emilia",91,243898,2024-01-05,Argentina
+4,Piel,"Tiago PZK, Ke Personajes",82,141079,2024-02-01,Argentina
+5,ROZE | DJ TAO Turreo Sessions #22,"DJ Tao, Roze Oficial",82,155291,2023-11-23,Argentina
+6,Tal Para Cual,"Salastkbron, Omar Varela",79,151224,2024-01-11,Argentina
+7,QUE ME FALTE TODO,"Luck Ra, Abel Pintos",75,165918,2024-02-02,Argentina
+8,LUNA,"Feid, ATL Jacob",97,196800,2023-12-01,Argentina
+9,"Young Miko: Bzrp Music Sessions, Vol. 58","Bizarrap, Young Miko",93,187172,2024-01-10,Argentina
+10,La_Original.mp3,"Emilia, TINI",84,140625,2023-11-03,Argentina
+11,La Morocha,"Luck Ra, BM",74,134144,2024-02-02,Argentina
+12,Inocente,"Roze Oficial, Peipper",82,171500,2023-12-01,Argentina
+13,30 GRADOS,"El Turko, Mandale Flow",71,151441,2024-01-26,Argentina
+14,Mamichula - con Nicki Nicole,"Trueno, Nicki Nicole, Bizarrap, Taiu, TATOOL",88,219201,2020-07-23,Argentina
+15,Exclusive.mp3,Emilia,83,120600,2023-11-03,Argentina
+16,SINVERGÜENZA - con Angela Torres,"Emanero, Karina, j mena, Angela Torres",79,217490,2023-12-05,Argentina
+17,Sin Querer,"Fer Vazquez, Flor Alvarez",80,141071,2023-12-14,Argentina
+18,M.A.I,Milo j,88,184027,2023-11-30,Argentina
+19,Buscando Money,"TWENTY SIX, Tayson Kryss",68,150000,2024-02-23,Argentina
+20,FLECHAZO EN EL CENTRO,"YSY A, Bhavi, Milo j",81,185241,2023-09-06,Argentina
+21,LA FALDA,Myke Towers,94,174229,2023-09-18,Argentina
+22,Linda - Remix,"Marka Akme, DJ Tao, Lauty Gram, Migrantes, Peipper",80,234105,2023-09-27,Argentina
+23,Bronceado - Remix,"Marama, MYA, Robleis",81,156631,2023-12-13,Argentina
+24,PRIMER AVISO,"Maria Becerra, Ivy Queen",63,182891,2024-02-29,Argentina
+25,Besos con Fernet,"Rusherking, Marama",80,147375,2023-11-07,Argentina
+26,Mentiras | CROSSOVER #3,"Big One, Ulises Bueno, Rusherking",79,168000,2023-07-25,Argentina
+27,Piscina,"Maria Becerra, Chencho Corleone, Ovy On The Drums",81,225661,2023-11-08,Argentina
+28,Bad Boy,"Sayian Jimmy, Nysix Music",74,159101,2023-11-10,Argentina
+29,El Super Junte Rkt,"Gusty dj, Salastkbron, Callejero Fino, Alejo Isakk, R Jota, L-Gante, Lolo OG, DobleP, Lauty Gram",77,383369,2023-11-30,Argentina
+30,Un Finde | CROSSOVER #2,"Big One, FMK, Ke Personajes",84,162500,2023-04-04,Argentina
+31,Ni Una Ni Dos,BM,80,158535,2023-06-28,Argentina
+32,OJITOS ROJOS,"Grupo Frontera, Ke Personajes",81,221601,2023-08-25,Argentina
+33,Le Gustan lo' Flaites,"El Joan, Celso El Potente",79,183328,2023-03-17,Argentina
+34,Ya No Vuelvas (Versión Cuarteto),"Luck Ra, La K'onga, Ke Personajes",72,204000,2024-02-02,Argentina
+35,El Amor De Mi Vida,"Los Ángeles Azules, Maria Becerra",62,184586,2023-08-18,Argentina
+36,GTA.mp3,Emilia,76,151653,2023-11-03,Argentina
+37,Daytona,Cris Mj,85,173785,2023-11-09,Argentina
+38,Nena Sad,"ORO600, Pablo Chill-E, 0-600, Orodembow",73,205217,2023-12-08,Argentina
+39,Una Foto,Mesita,78,122500,2023-08-15,Argentina
+40,ATORRANTE - con Los Palmeras,"Emanero, Ulises Bueno, Migrantes, Los Palmeras",76,252347,2023-07-08,Argentina
+41,TU Y YO,"KHEA, Emilia",74,192517,2024-02-14,Argentina
+42,Quiero Creer,"Luck Ra, La T y La M, Rusherking",69,145054,2024-02-02,Argentina
+43,Cuarteto Sessions #3,Q' Lokura,69,500989,2023-12-30,Argentina
+44,Cupido,"Engel Montaz, Kuv507, Latinnites Music",75,215000,2023-02-14,Argentina
+45,Por Mil Noches,Airbag,74,283884,2013-11-27,Argentina
+46,PERRO NEGRO,"Bad Bunny, Feid",95,162767,2023-10-13,Argentina
+47,CORAZÓN VACÍO,Maria Becerra,82,160535,2023-06-22,Argentina
+48,NO DA MÁS,"YSY A, Duki, ONIRIA, Yesan 雪山",77,168484,2023-11-11,Argentina
+49,Ahi Ahi,El negro tecla,77,176796,2021-12-08,Argentina
+50,TRANKY FUNKY,Trueno,79,158325,2023-08-10,Argentina
